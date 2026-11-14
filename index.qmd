@@ -1,0 +1,80 @@
+---
+title: ""
+---
+
+::: {.hero-grid}
+
+::: {.hero-copy}
+<div class="eyebrow">EVOLUTIONARY BIOLOGY · MOLECULAR ECOLOGY</div>
+
+# Understanding the evolution of biological interactions.
+
+I study how organisms evolve bioactive molecules, manipulate biological systems, and develop new molecular strategies through evolution.
+
+<div class="hero-links">
+<a class="button button-primary" href="research.html">Explore the research</a>
+<a class="text-link" href="about.html">About me <span aria-hidden="true">↗</span></a>
+</div>
+
+<div class="hero-note">From genes and molecules to organisms and ecological interactions.</div>
+:::
+
+::: {.hero-image}
+![Placeholder image: replace with your own photograph of a cone snail in its natural habitat.](images/hero-placeholder.svg){.hero-photo}
+<div class="image-caption">A natural-history perspective on molecular evolution</div>
+:::
+
+:::
+
+::: {.intro-band}
+<div class="intro-label">RESEARCH INTERESTS</div>
+<div class="intro-text">How do molecular systems evolve, diversify, and become tools in the interactions between organisms?</div>
+:::
+
+## Research themes
+
+<div class="research-grid">
+
+<div class="research-card">
+![Cone snail placeholder](images/cone-snail-placeholder.svg){.card-image}
+<div class="card-kicker">01 / VENOM & EVOLUTION</div>
+<h3>Evolution of venom systems</h3>
+<p>How do animals repeatedly evolve molecular weapons, and why are particular protein scaffolds recruited into venom?</p>
+<a href="projects/venom-evolution.html" class="card-link">Explore this research ↗</a>
+</div>
+
+<div class="research-card">
+![Beetle placeholder](images/beetle-placeholder.svg){.card-image}
+<div class="card-kicker">02 / HOST MANIPULATION</div>
+<h3>Molecular mimicry</h3>
+<p>How do parasites, pathogens, and other organisms exploit host signaling pathways through molecular imitation?</p>
+<a href="projects/molecular-mimicry.html" class="card-link">Explore this research ↗</a>
+</div>
+
+<div class="research-card">
+![Ant placeholder](images/ants-placeholder.svg){.card-image}
+<div class="card-kicker">03 / PEPTIDE BIOLOGY</div>
+<h3>Evolution of peptide signaling</h3>
+<p>How do peptide hormones and neuropeptides diversify, acquire new functions, and shape organismal interactions?</p>
+<a href="projects/peptide-signaling.html" class="card-link">Explore this research ↗</a>
+</div>
+
+</div>
+
+## Approaches
+
+<div class="approach-strip">
+<span>Comparative genomics</span>
+<span>Evolutionary biology</span>
+<span>Peptide biochemistry</span>
+<span>Functional assays</span>
+<span>Field-based natural history</span>
+</div>
+
+::: {.closing-note}
+**Interested in the research?**
+
+I welcome conversations about collaborations, research opportunities, and the evolution of bioactive molecules.
+
+<a href="contact.html" class="text-link">Get in touch ↗</a>
+:::

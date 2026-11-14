@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+<rect width="100%" height="100%" fill="#d9dfd1"/>
+<path d="M0 792.0 C352.0 638.0, 560.0 968.0, 927.9999999999999 737.0 S1376.0 583.0, 1600 758.9999999999999 L1600 1100 L0 1100Z" fill="#49624e" opacity=".13"/>
+<circle cx="1216.0" cy="275.0" r="154.00000000000003" fill="#49624e" opacity=".10"/>
+<path d="M192.0 242.0 C400.0 88.0, 608.0 418.0, 832.0 220.0" fill="none" stroke="#49624e" stroke-width="2" opacity=".25"/>
+<text x="128.0" y="880.0" font-family="Arial,sans-serif" font-size="38.50000000000001" letter-spacing="5" fill="#49624e" font-weight="700">HERO PHOTOGRAPH</text>
+<text x="128.0" y="946.0" font-family="Arial,sans-serif" font-size="22.0" fill="#49624e">Replace with a wide photograph of a cone snail or another focal organism</text>
+<text x="128.0" y="1023.0" font-family="Arial,sans-serif" font-size="15.4" letter-spacing="3" fill="#49624e" opacity=".7">IMAGE PLACEHOLDER</text>
+</svg>

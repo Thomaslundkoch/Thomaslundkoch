@@ -1,0 +1,34 @@
+---
+title: "About"
+subtitle: "Evolutionary biologist studying bioactive molecules and organismal interactions."
+---
+
+::: {.about-grid}
+
+::: {.about-photo}
+![Replace with a professional portrait or a photograph of yourself in the field.](images/portrait-placeholder.svg){.portrait-image}
+:::
+
+::: {.about-copy}
+I am an evolutionary biologist interested in how bioactive molecules evolve and shape interactions between organisms.
+
+My research combines comparative genomics, evolutionary biology, and functional approaches to investigate venom systems, molecular mimicry, and peptide signaling.
+
+I am currently a Marie Skłodowska-Curie postdoctoral researcher at the University of Oslo, working on the evolution and function of bioactive molecules.
+
+My broader aim is to understand how evolutionary processes generate molecular innovations and how these innovations influence ecological interactions.
+:::
+
+:::
+
+## Research approach
+
+I enjoy research that connects organismal biology and natural history with molecular and genomic approaches. I am particularly interested in questions that can be addressed by combining broad evolutionary comparisons with targeted functional experiments.
+
+## Academic background
+
+*Add your degrees, previous research positions, affiliations, and selected awards here.*
+
+## Curriculum vitae
+
+[Download CV](#) *(Add your CV PDF to the website and update this link.)*

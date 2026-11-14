@@ -1,0 +1,27 @@
+---
+title: "The evolution of peptide signaling systems"
+description: "The origins, diversification, and functional evolution of peptide hormones and neuropeptides."
+---
+
+![Replace with a photograph of an animal lineage relevant to your peptide signaling research.](../images/ants-placeholder.svg){.project-hero}
+
+## The question
+
+Peptide hormones and neuropeptides are widespread regulators of animal physiology and behavior. Their diversity reflects a long history of gene duplication, gene loss, sequence evolution, and changes in receptor specificity.
+
+I use comparative approaches to reconstruct the origins and diversification of peptide-encoding genes across animal lineages, and to connect evolutionary hypotheses with functional characterization.
+
+## Research directions
+
+- Identify peptide-encoding genes across diverse animal genomes.
+- Reconstruct the evolutionary histories of peptide families and their receptors.
+- Investigate lineage-specific gene expansions and potential functional innovation.
+- Use evolutionary predictions to guide ligand discovery and receptor deorphanization.
+
+::: {.project-callout}
+**Methods**
+
+Genome mining · Comparative genomics · Phylogenetics · Peptide synthesis · Receptor deorphanization
+:::
+
+*This page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops.*

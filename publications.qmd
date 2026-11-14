@@ -1,0 +1,22 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed research, preprints, and other scholarly contributions."
+---
+
+A selected list of publications will appear here. I recommend maintaining the publication records in a BibTeX file so that references can be updated consistently and reused in grant applications, CVs, and project pages.
+
+**To complete this page:** add your publication records to `references.bib`, then we can configure an automatically generated publication list grouped by year and publication type.
+
+For now, you can add selected papers manually below:
+
+::: {.publication-placeholder}
+**Selected publications**
+
+Add publication title, author list, journal, year, and DOI or article link here.
+:::
+
+External profiles:
+
+- [ORCID](https://orcid.org/)
+- [Google Scholar](https://scholar.google.com/)
+- [GitHub](https://github.com/)

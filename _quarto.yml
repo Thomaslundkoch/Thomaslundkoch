@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Thomas Lund Koch"
+  description: "Evolutionary biology, molecular ecology, and the evolution of bioactive molecules."
+  navbar:
+    title: "THOMAS LUND KOCH"
+    background: "#f7f5ef"
+    foreground: "#202923"
+    pinned: true
+    left:
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© 2026 Thomas Lund Koch"
+    right: "Evolutionary biology · Molecular ecology"
+    background: "#202923"
+    foreground: "#f7f5ef"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

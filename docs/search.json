@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Replace with a professional portrait or a photograph of yourself in the field.\n\n\n\n\nI am an evolutionary biologist interested in how bioactive molecules evolve and shape interactions between organisms.\nMy research combines comparative genomics, evolutionary biology, and functional approaches to investigate venom systems, molecular mimicry, and peptide signaling.\nI am currently a Marie Skłodowska-Curie postdoctoral researcher at the University of Oslo, working on the evolution and function of bioactive molecules.\nMy broader aim is to understand how evolutionary processes generate molecular innovations and how these innovations influence ecological interactions."
+  },
+  {
+    "objectID": "about.html#research-approach",
+    "href": "about.html#research-approach",
+    "title": "About",
+    "section": "Research approach",
+    "text": "Research approach\nI enjoy research that connects organismal biology and natural history with molecular and genomic approaches. I am particularly interested in questions that can be addressed by combining broad evolutionary comparisons with targeted functional experiments."
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic background",
+    "text": "Academic background\nAdd your degrees, previous research positions, affiliations, and selected awards here."
+  },
+  {
+    "objectID": "about.html#curriculum-vitae",
+    "href": "about.html#curriculum-vitae",
+    "title": "About",
+    "section": "Curriculum vitae",
+    "text": "Curriculum vitae\nDownload CV (Add your CV PDF to the website and update this link.)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Understanding the evolution of biological interactions.",
+    "section": "",
+    "text": "EVOLUTIONARY BIOLOGY · MOLECULAR ECOLOGY\n\n\n\nI study how organisms evolve bioactive molecules, manipulate biological systems, and develop new molecular strategies through evolution.\n\nExplore the research About me ↗\n\n\nFrom genes and molecules to organisms and ecological interactions.\n\n\n\n\n\n\n\nPlaceholder image: replace with your own photograph of a cone snail in its natural habitat.\n\n\n\nA natural-history perspective on molecular evolution"
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Understanding the evolution of biological interactions.",
+    "section": "Research themes",
+    "text": "Research themes\n\n\n\n\n\nCone snail placeholder\n\n\n\n01 / VENOM & EVOLUTION\n\n\nEvolution of venom systems\n\n\nHow do animals repeatedly evolve molecular weapons, and why are particular protein scaffolds recruited into venom?\n\nExplore this research ↗\n\n\n\n\n\nBeetle placeholder\n\n\n\n02 / HOST MANIPULATION\n\n\nMolecular mimicry\n\n\nHow do parasites, pathogens, and other organisms exploit host signaling pathways through molecular imitation?\n\nExplore this research ↗\n\n\n\n\n\nAnt placeholder\n\n\n\n03 / PEPTIDE BIOLOGY\n\n\nEvolution of peptide signaling\n\n\nHow do peptide hormones and neuropeptides diversify, acquire new functions, and shape organismal interactions?\n\nExplore this research ↗"
+  },
+  {
+    "objectID": "index.html#approaches",
+    "href": "index.html#approaches",
+    "title": "Understanding the evolution of biological interactions.",
+    "section": "Approaches",
+    "text": "Approaches\n\nComparative genomics Evolutionary biology Peptide biochemistry Functional assays Field-based natural history\n\n\nInterested in the research?\nI welcome conversations about collaborations, research opportunities, and the evolution of bioactive molecules.\nGet in touch ↗"
+  },
+  {
+    "objectID": "projects/peptide-signaling.html",
+    "href": "projects/peptide-signaling.html",
+    "title": "The evolution of peptide signaling systems",
+    "section": "",
+    "text": "Replace with a photograph of an animal lineage relevant to your peptide signaling research."
+  },
+  {
+    "objectID": "projects/peptide-signaling.html#the-question",
+    "href": "projects/peptide-signaling.html#the-question",
+    "title": "The evolution of peptide signaling systems",
+    "section": "The question",
+    "text": "The question\nPeptide hormones and neuropeptides are widespread regulators of animal physiology and behavior. Their diversity reflects a long history of gene duplication, gene loss, sequence evolution, and changes in receptor specificity.\nI use comparative approaches to reconstruct the origins and diversification of peptide-encoding genes across animal lineages, and to connect evolutionary hypotheses with functional characterization."
+  },
+  {
+    "objectID": "projects/peptide-signaling.html#research-directions",
+    "href": "projects/peptide-signaling.html#research-directions",
+    "title": "The evolution of peptide signaling systems",
+    "section": "Research directions",
+    "text": "Research directions\n\nIdentify peptide-encoding genes across diverse animal genomes.\nReconstruct the evolutionary histories of peptide families and their receptors.\nInvestigate lineage-specific gene expansions and potential functional innovation.\nUse evolutionary predictions to guide ligand discovery and receptor deorphanization.\n\n\nMethods\nGenome mining · Comparative genomics · Phylogenetics · Peptide synthesis · Receptor deorphanization\n\nThis page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops."
+  },
+  {
+    "objectID": "projects/venom-evolution.html",
+    "href": "projects/venom-evolution.html",
+    "title": "Repeated evolution of animal venom systems",
+    "section": "",
+    "text": "Replace with a photograph of a cone snail, fang blenny, snake, or another venomous animal relevant to this project."
+  },
+  {
+    "objectID": "projects/venom-evolution.html#the-question",
+    "href": "projects/venom-evolution.html#the-question",
+    "title": "Repeated evolution of animal venom systems",
+    "section": "The question",
+    "text": "The question\nVenom systems have evolved repeatedly across the animal tree of life. Despite their independent origins, different venomous lineages sometimes use homologous proteins and peptides, raising questions about the evolutionary routes through which venom components are recruited.\nI investigate whether repeated transitions to venom use predictable molecular solutions, and how gene duplication, regulatory evolution, and protein diversification contribute to venom innovation."
+  },
+  {
+    "objectID": "projects/venom-evolution.html#research-directions",
+    "href": "projects/venom-evolution.html#research-directions",
+    "title": "Repeated evolution of animal venom systems",
+    "section": "Research directions",
+    "text": "Research directions\n\nCompare venom protein repertoires across independently evolved venomous lineages.\nIdentify shared and lineage-specific protein scaffolds.\nReconstruct the evolutionary history of candidate venom components.\nTest the functional activity of selected peptides and proteins."
+  },
+  {
+    "objectID": "projects/venom-evolution.html#study-systems",
+    "href": "projects/venom-evolution.html#study-systems",
+    "title": "Repeated evolution of animal venom systems",
+    "section": "Study systems",
+    "text": "Study systems\nThe project draws on venomous and non-venomous animal lineages, with a particular interest in cone snails and other animals that use bioactive molecules in prey capture and defense.\n\nMethods\nComparative genomics · Phylogenetics · Transcriptomics · Protein and peptide characterization · Functional assays\n\nThis page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research asks how bioactive molecules evolve and how they shape interactions between organisms. I combine comparative genomics, evolutionary analyses, and functional experiments to investigate the origins and diversification of molecular systems.\nThe work spans several biological contexts, but is connected by a common interest: how evolution modifies existing molecular machinery to create new biological functions."
+  },
+  {
+    "objectID": "research.html#venom-evolution",
+    "href": "research.html#venom-evolution",
+    "title": "Research",
+    "section": "Venom evolution",
+    "text": "Venom evolution\nVenoms have evolved independently across many animal lineages, often drawing on proteins and peptides that originally served other physiological functions. I am interested in the evolutionary routes through which these molecules are recruited, diversified, and assembled into complex venom systems.\nKey questions include:\n\nWhy are some protein scaffolds repeatedly recruited into venom?\nDo independent evolutionary transitions use similar genetic and molecular routes?\nHow do gene duplication, regulatory changes, and sequence evolution contribute to venom innovation?\n\nExplore the venom evolution project →"
+  },
+  {
+    "objectID": "research.html#molecular-mimicry-and-host-manipulation",
+    "href": "research.html#molecular-mimicry-and-host-manipulation",
+    "title": "Research",
+    "section": "Molecular mimicry and host manipulation",
+    "text": "Molecular mimicry and host manipulation\nOrganisms can manipulate other organisms by producing molecules that imitate or interfere with endogenous signaling systems. I investigate how parasites, pathogens, and other interacting organisms evolve molecular mimics of host peptides and signaling molecules.\nKey questions include:\n\nHow often do interacting organisms evolve molecular mimics?\nWhat evolutionary processes enable a mimic to activate a host signaling pathway?\nCan comparative genomics reveal the origins and spread of molecular mimicry?\n\nExplore the molecular mimicry project →"
+  },
+  {
+    "objectID": "research.html#evolution-of-peptide-signaling",
+    "href": "research.html#evolution-of-peptide-signaling",
+    "title": "Research",
+    "section": "Evolution of peptide signaling",
+    "text": "Evolution of peptide signaling\nPeptide hormones and neuropeptides are ancient and diverse signaling molecules. Their evolutionary histories can reveal how communication systems originate, expand, and acquire new functions across animal lineages.\nKey questions include:\n\nHow old are the major families of peptide-encoding genes?\nHow do gene duplication and loss contribute to signaling-system diversity?\nHow can evolutionary analyses guide the discovery and functional characterization of peptide ligands?\n\nExplore the peptide signaling project →"
+  },
+  {
+    "objectID": "research.html#an-integrative-approach",
+    "href": "research.html#an-integrative-approach",
+    "title": "Research",
+    "section": "An integrative approach",
+    "text": "An integrative approach\nI combine evolutionary and functional approaches, moving between broad comparative questions and detailed mechanistic tests.\n\nGenome evolution Phylogenetics Transcriptomics Peptide synthesis Receptor pharmacology Organismal biology"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to hear from researchers, students, and potential collaborators interested in evolutionary biology, venom systems, molecular mimicry, and peptide signaling.\n\n\nEMAIL\n\nAdd your preferred institutional email address\n\nAFFILIATION\n\nUniversity of Oslo · Department / research group details\n\nPROFILES\n\nORCID · Google Scholar · GitHub\n\nBefore publishing, replace the example profile links and contact details with your actual accounts."
+  },
+  {
+    "objectID": "projects/molecular-mimicry.html",
+    "href": "projects/molecular-mimicry.html",
+    "title": "Molecular mimicry in biological interactions",
+    "section": "",
+    "text": "Replace with a photograph of an insect, parasite, pathogen, or host organism central to this research."
+  },
+  {
+    "objectID": "projects/molecular-mimicry.html#the-question",
+    "href": "projects/molecular-mimicry.html#the-question",
+    "title": "Molecular mimicry in biological interactions",
+    "section": "The question",
+    "text": "The question\nOrganisms do not interact only through behavior and ecology. They also interact through molecules. Parasites and pathogens can produce molecules that resemble host signaling molecules, potentially allowing them to manipulate host physiology and development.\nI am interested in the evolution of these molecular strategies, particularly the mimicry of peptide hormones and other signaling molecules."
+  },
+  {
+    "objectID": "projects/molecular-mimicry.html#research-directions",
+    "href": "projects/molecular-mimicry.html#research-directions",
+    "title": "Molecular mimicry in biological interactions",
+    "section": "Research directions",
+    "text": "Research directions\n\nIdentify candidate peptide mimics in the genomes and transcriptomes of interacting organisms.\nInvestigate their evolutionary origins and patterns of diversification.\nTest whether candidate mimics activate host receptors or signaling pathways.\nUnderstand how molecular mimicry contributes to the evolution of host–parasite interactions."
+  },
+  {
+    "objectID": "projects/molecular-mimicry.html#study-systems",
+    "href": "projects/molecular-mimicry.html#study-systems",
+    "title": "Molecular mimicry in biological interactions",
+    "section": "Study systems",
+    "text": "Study systems\nThis research draws on diverse host–parasite and host–pathogen systems, including interactions involving insects and plants.\n\nMethods\nComparative genomics · Secretome analysis · Peptide synthesis · Receptor pharmacology · Functional signaling assays\n\nThis page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These project pages provide an overview of the questions, systems, and approaches that motivate my research. They will develop as projects progress and new results become available.\n\n\n\n\n\nCone snail\n\n\n\n\nVENOM EVOLUTION\n\n\nRepeated evolution of animal venom systems\n\n\nInvestigating the evolutionary origins of venom components and the repeated recruitment of protein scaffolds into animal venoms.\n\n\n\n\n\n\n\nEmerald ash borer\n\n\n\n\nMOLECULAR MIMICRY\n\n\nMolecular mimicry in biological interactions\n\n\nExploring how parasites and pathogens evolve peptide mimics that manipulate host signaling pathways.\n\n\n\n\n\n\n\nAnt\n\n\n\n\nPEPTIDE EVOLUTION\n\n\nThe evolution of peptide signaling systems\n\n\nReconstructing the evolutionary history of peptide-encoding genes and investigating the functional diversification of signaling molecules."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A selected list of publications will appear here. I recommend maintaining the publication records in a BibTeX file so that references can be updated consistently and reused in grant applications, CVs, and project pages.\nTo complete this page: add your publication records to references.bib, then we can configure an automatically generated publication list grouped by year and publication type.\nFor now, you can add selected papers manually below:\n\nSelected publications\nAdd publication title, author list, journal, year, and DOI or article link here.\n\nExternal profiles:\n\nORCID\nGoogle Scholar\nGitHub"
+  }
+]

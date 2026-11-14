@@ -1,0 +1,57 @@
+---
+title: "Research"
+subtitle: "Evolutionary questions at the intersection of molecules, organisms, and ecological interactions."
+---
+
+My research asks how bioactive molecules evolve and how they shape interactions between organisms. I combine comparative genomics, evolutionary analyses, and functional experiments to investigate the origins and diversification of molecular systems.
+
+The work spans several biological contexts, but is connected by a common interest: **how evolution modifies existing molecular machinery to create new biological functions.**
+
+## Venom evolution
+
+Venoms have evolved independently across many animal lineages, often drawing on proteins and peptides that originally served other physiological functions. I am interested in the evolutionary routes through which these molecules are recruited, diversified, and assembled into complex venom systems.
+
+Key questions include:
+
+- Why are some protein scaffolds repeatedly recruited into venom?
+- Do independent evolutionary transitions use similar genetic and molecular routes?
+- How do gene duplication, regulatory changes, and sequence evolution contribute to venom innovation?
+
+[Explore the venom evolution project →](projects/venom-evolution.qmd)
+
+## Molecular mimicry and host manipulation
+
+Organisms can manipulate other organisms by producing molecules that imitate or interfere with endogenous signaling systems. I investigate how parasites, pathogens, and other interacting organisms evolve molecular mimics of host peptides and signaling molecules.
+
+Key questions include:
+
+- How often do interacting organisms evolve molecular mimics?
+- What evolutionary processes enable a mimic to activate a host signaling pathway?
+- Can comparative genomics reveal the origins and spread of molecular mimicry?
+
+[Explore the molecular mimicry project →](projects/molecular-mimicry.qmd)
+
+## Evolution of peptide signaling
+
+Peptide hormones and neuropeptides are ancient and diverse signaling molecules. Their evolutionary histories can reveal how communication systems originate, expand, and acquire new functions across animal lineages.
+
+Key questions include:
+
+- How old are the major families of peptide-encoding genes?
+- How do gene duplication and loss contribute to signaling-system diversity?
+- How can evolutionary analyses guide the discovery and functional characterization of peptide ligands?
+
+[Explore the peptide signaling project →](projects/peptide-signaling.qmd)
+
+## An integrative approach
+
+I combine evolutionary and functional approaches, moving between broad comparative questions and detailed mechanistic tests.
+
+<div class="approach-strip">
+<span>Genome evolution</span>
+<span>Phylogenetics</span>
+<span>Transcriptomics</span>
+<span>Peptide synthesis</span>
+<span>Receptor pharmacology</span>
+<span>Organismal biology</span>
+</div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+<rect width="100%" height="100%" fill="#d7dfd0"/>
+<path d="M0 540.0 C220.0 434.99999999999994, 350.0 660.0, 580.0 502.50000000000006 S860.0 397.5, 1000 517.5 L1000 750 L0 750Z" fill="#405d4a" opacity=".13"/>
+<circle cx="760.0" cy="187.5" r="105.00000000000001" fill="#405d4a" opacity=".10"/>
+<path d="M120.0 165.0 C250.0 60.0, 380.0 285.0, 520.0 150.0" fill="none" stroke="#405d4a" stroke-width="2" opacity=".25"/>
+<text x="80.0" y="600.0" font-family="Arial,sans-serif" font-size="26.250000000000004" letter-spacing="5" fill="#405d4a" font-weight="700">VENOM EVOLUTION</text>
+<text x="80.0" y="645.0" font-family="Arial,sans-serif" font-size="15.0" fill="#405d4a">Replace with your cone snail / venomous animal photograph</text>
+<text x="80.0" y="697.5" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="3" fill="#405d4a" opacity=".7">IMAGE PLACEHOLDER</text>
+</svg>

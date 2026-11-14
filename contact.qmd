@@ -1,0 +1,19 @@
+---
+title: "Contact"
+subtitle: "For research discussions, collaborations, and academic enquiries."
+---
+
+I am happy to hear from researchers, students, and potential collaborators interested in evolutionary biology, venom systems, molecular mimicry, and peptide signaling.
+
+<div class="contact-panel">
+<div class="contact-label">EMAIL</div>
+**Add your preferred institutional email address**
+
+<div class="contact-label">AFFILIATION</div>
+University of Oslo · Department / research group details
+
+<div class="contact-label">PROFILES</div>
+[ORCID](https://orcid.org/) · [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/)
+</div>
+
+*Before publishing, replace the example profile links and contact details with your actual accounts.*
