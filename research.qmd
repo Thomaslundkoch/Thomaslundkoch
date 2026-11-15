@@ -1,57 +1,69 @@
 ---
 title: "Research"
-subtitle: "Evolutionary questions at the intersection of molecules, organisms, and ecological interactions."
+subtitle: "How evolution turns existing molecules into toxins, mimics, and signals."
 ---
 
-My research asks how bioactive molecules evolve and how they shape interactions between organisms. I combine comparative genomics, evolutionary analyses, and functional experiments to investigate the origins and diversification of molecular systems.
-
-The work spans several biological contexts, but is connected by a common interest: **how evolution modifies existing molecular machinery to create new biological functions.**
+My research asks how bioactive peptides evolve and how they shape interactions between organisms. I combine fieldwork, comparative genomics, computational biology, and physiological testing to trace the origins and diversification of molecular systems, from neuropeptides and hormones to toxins.
 
 ## Venom evolution
 
-Venoms have evolved independently across many animal lineages, often drawing on proteins and peptides that originally served other physiological functions. I am interested in the evolutionary routes through which these molecules are recruited, diversified, and assembled into complex venom systems.
+Venoms have evolved independently across many animal lineages, often recruiting molecules that originally served other physiological roles. In cone snails, I study how a venom system with hundreds of toxins arises and diversifies, and how it responds to ecological change.
 
 Key questions include:
 
-- Why are some protein scaffolds repeatedly recruited into venom?
-- Do independent evolutionary transitions use similar genetic and molecular routes?
-- How do gene duplication, regulatory changes, and sequence evolution contribute to venom innovation?
+- Where do toxins come from, and why are some protein scaffolds repeatedly recruited into venom?
+- How do shifts in diet, such as moving from worms to mollusks or fish, reshape venom composition?
+- How do gene duplication, regulatory change, and sequence evolution contribute to venom innovation, and how is venom lost?
 
-[Explore the venom evolution project →](projects/venom-evolution.qmd)
+Our work has shown that [prey shifts drive venom evolution in cone snails](publications.qmd) and traced many cone snail toxins back to ancestral neuropeptides and hormones. My current project at the University of Oslo uses comparative genomics to investigate the origin and loss of venom across marine snails.
+
+[Explore the venom evolution projects →](projects/venom-evolution.qmd)
 
 ## Molecular mimicry and host manipulation
 
-Organisms can manipulate other organisms by producing molecules that imitate or interfere with endogenous signaling systems. I investigate how parasites, pathogens, and other interacting organisms evolve molecular mimics of host peptides and signaling molecules.
+Organisms can manipulate one another by producing molecules that imitate endogenous signaling peptides. I call these molecules *doppelgänger peptides*. They are found in venoms, parasites, and pathogens, and they let one species hijack the signaling pathways of another.
 
 Key questions include:
 
-- How often do interacting organisms evolve molecular mimics?
-- What evolutionary processes enable a mimic to activate a host signaling pathway?
-- Can comparative genomics reveal the origins and spread of molecular mimicry?
+- How often do interacting organisms evolve molecular mimics, and in which lineages?
+- What evolutionary processes allow a mimic to activate a host receptor?
+- How do mimics help animals paralyze, defend against, or manipulate other organisms?
+- Can comparative genomics reveal the origins and spread of mimicry?
+
+Examples from our work include somatostatin and insulin mimics that disrupt blood glucose in the prey of a fish-hunting cone snail, neurotensin mimics produced by intestinal hookworms, and bradykinin mimics that evolved repeatedly as defensive toxins. We reviewed the field in *Trends in Biochemical Sciences* and *General and Comparative Endocrinology*.
 
 [Explore the molecular mimicry project →](projects/molecular-mimicry.qmd)
 
 ## Evolution of peptide signaling
 
-Peptide hormones and neuropeptides are ancient and diverse signaling molecules. Their evolutionary histories can reveal how communication systems originate, expand, and acquire new functions across animal lineages.
+Peptide hormones and neuropeptides are ancient, diverse signaling molecules. Their evolutionary histories show how communication systems originate, expand, and acquire new functions across animal lineages.
 
 Key questions include:
 
 - How old are the major families of peptide-encoding genes?
-- How do gene duplication and loss contribute to signaling-system diversity?
-- How can evolutionary analyses guide the discovery and functional characterization of peptide ligands?
+- How do duplication and loss shape the diversity of signaling systems, from cnidarians to bilaterians?
+- How can toxins and evolutionary analyses guide the discovery of previously unknown peptide ligands?
+
+I began this work with genome-wide surveys of neuropeptide genes in cnidarians and placozoans. More recently, I have used the rapidly evolving toxins of cone snails to reconstruct the origins of the somatostatin and allatostatin-C signaling systems, and to build a toxin-based approach to neuropeptide discovery. We are also developing machine-learning methods to predict neuropeptide precursors from protein sequences.
 
 [Explore the peptide signaling project →](projects/peptide-signaling.qmd)
 
+## From evolution to application
+
+Toxins and mimics have been refined by evolution to act on specific receptors, which makes them useful starting points for drug discovery. For example, cone snail venom peptides acting on the somatostatin receptor SSTR4 have led to new drug leads for peripheral pain.
+
 ## An integrative approach
 
-I combine evolutionary and functional approaches, moving between broad comparative questions and detailed mechanistic tests.
+I move between broad comparative questions and detailed mechanistic tests: genomes and transcriptomes to find candidate molecules and reconstruct their histories, then peptide synthesis, receptor assays, and physiological experiments to test what they do.
 
 <div class="approach-strip">
-<span>Genome evolution</span>
+<span>Comparative genomics</span>
 <span>Phylogenetics</span>
 <span>Transcriptomics</span>
+<span>Machine learning</span>
 <span>Peptide synthesis</span>
 <span>Receptor pharmacology</span>
-<span>Organismal biology</span>
+<span>Field-based natural history</span>
 </div>
+
+[See publications →](publications.qmd)

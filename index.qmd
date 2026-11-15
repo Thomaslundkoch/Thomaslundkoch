@@ -1,34 +1,32 @@
 ---
-title: ""
+pagetitle: "Thomas Lund Koch | Evolutionary Biology & Molecular Ecology"
+description: "Research on the evolution of venoms, molecular mimicry, and peptide signaling, using comparative genomics, peptide biochemistry, and field-based natural history."
+open-graph:
+  title: "Thomas Lund Koch | Evolutionary Biology & Molecular Ecology"
+  description: "How venoms, mimics, and peptide signals evolve."
+  image: images/Fig1.r1.pdf
 ---
 
 ::: {.hero-grid}
 
 ::: {.hero-copy}
-<div class="eyebrow">EVOLUTIONARY BIOLOGY · MOLECULAR ECOLOGY</div>
+<div class="eyebrow">DR. THOMAS LUND KOCH · MSCA POSTDOCTORAL RESEARCHER · CENTRE FOR ECOLOGICAL AND EVOLUTIONARY SYNTHESIS, UNIVERSITY OF OSOLO</div>
 
-# Understanding the evolution of biological interactions.
+## How venoms, mimics, and peptide signals evolve.
 
-I study how organisms evolve bioactive molecules, manipulate biological systems, and develop new molecular strategies through evolution.
+I study how organisms evolve bioactive molecules, using comparative genomics and peptide biochemistry to trace how toxins, hormones, and mimics arise and diversify. My work spans cone snail venoms, neuropeptide evolution, and the molecular strategies that parasites use to manipulate their hosts.
 
 <div class="hero-links">
-<a class="button button-primary" href="research.html">Explore the research</a>
-<a class="text-link" href="about.html">About me <span aria-hidden="true">↗</span></a>
+<a class="button button-primary" href="research.html">View research</a>
+<a class="button button-primary" href="about.html">About me</a>
 </div>
-
-<div class="hero-note">From genes and molecules to organisms and ecological interactions.</div>
 :::
 
 ::: {.hero-image}
-![Placeholder image: replace with your own photograph of a cone snail in its natural habitat.](images/hero-placeholder.svg){.hero-photo}
-<div class="image-caption">A natural-history perspective on molecular evolution</div>
+![Conus bullatus about to feed](images/bullatus.jpg){.hero-photo}
+<div class="image-caption"><em>Conus bullatus</em>. Photo: Dylan Taylor.</div>
 :::
 
-:::
-
-::: {.intro-band}
-<div class="intro-label">RESEARCH INTERESTS</div>
-<div class="intro-text">How do molecular systems evolve, diversify, and become tools in the interactions between organisms?</div>
 :::
 
 ## Research themes
@@ -36,45 +34,79 @@ I study how organisms evolve bioactive molecules, manipulate biological systems,
 <div class="research-grid">
 
 <div class="research-card">
-![Cone snail placeholder](images/cone-snail-placeholder.svg){.card-image}
-<div class="card-kicker">01 / VENOM & EVOLUTION</div>
+<img src="images/snails.jpg" alt="Cone snail on a reef" class="card-image">
+<div class="card-kicker">VENOM &amp; EVOLUTION</div>
 <h3>Evolution of venom systems</h3>
-<p>How do animals repeatedly evolve molecular weapons, and why are particular protein scaffolds recruited into venom?</p>
-<a href="projects/venom-evolution.html" class="card-link">Explore this research ↗</a>
+<p>How do animals repeatedly evolve molecular weapons?</p>
+<a href="projects/venom-evolution.html" class="card-link">Read more <span aria-hidden="true">→</span></a>
 </div>
 
 <div class="research-card">
-![Beetle placeholder](images/beetle-placeholder.svg){.card-image}
-<div class="card-kicker">02 / HOST MANIPULATION</div>
+<img src="images/mimic.jpg" alt="Beetle" class="card-image">
+<div class="card-kicker">HOST MANIPULATION</div>
 <h3>Molecular mimicry</h3>
-<p>How do parasites, pathogens, and other organisms exploit host signaling pathways through molecular imitation?</p>
-<a href="projects/molecular-mimicry.html" class="card-link">Explore this research ↗</a>
+<p>How do parasites, pathogens, and other organisms exploit host signaling pathways through molecular doppelgängers?</p>
+<a href="projects/molecular-mimicry.html" class="card-link">Read more <span aria-hidden="true">→</span></a>
 </div>
 
 <div class="research-card">
-![Ant placeholder](images/ants-placeholder.svg){.card-image}
-<div class="card-kicker">03 / PEPTIDE BIOLOGY</div>
+<img src="images/peptide2.jpeg" alt="Ants" class="card-image">
+<div class="card-kicker">PEPTIDE BIOLOGY</div>
 <h3>Evolution of peptide signaling</h3>
 <p>How do peptide hormones and neuropeptides diversify, acquire new functions, and shape organismal interactions?</p>
-<a href="projects/peptide-signaling.html" class="card-link">Explore this research ↗</a>
+<a href="projects/peptide-signaling.html" class="card-link">Read more <span aria-hidden="true">→</span></a>
 </div>
 
 </div>
 
-## Approaches
+## Selected publications
 
-<div class="approach-strip">
-<span>Comparative genomics</span>
-<span>Evolutionary biology</span>
-<span>Peptide biochemistry</span>
-<span>Functional assays</span>
-<span>Field-based natural history</span>
-</div>
+<ul class="pub-list">
+<li>
+<span class="pub-authors"> <strong>Thomas L Koch</strong>, Samuel D Robinson, and Helena Safavi-Hemami.</span>
+<span class="pub-year">(2025)</span>
+<a href=" https://doi.org/10.1016/j.tibs.2025.06.011" class="pub-title">Molecular mimicry: ecology, evolution, and applications of doppelgänger peptides.</a>
+<em class="pub-journal">Trends in Biochemical Sciences</em>
+</li>
+<li>
+<span class="pub-authors"><strong>Thomas L Koch</strong>, Giada Ferrari, Sunita B Sumanam, Maren Watkins, Kevin Chase, Ave Tooming-Klunderud, Arturo O Lluisma, Angel Yanagihara, Neil D Young, Baldomero M Olivera, Eivind A B Undheim, and Helena Safavi-Hemami.</span>
+<span class="pub-year">(2026)</span>
+<a href="https://doi.org/10.1093/molbev/msag206" class="pub-title">From neuropeptides to toxins: illuminating the origins of venom complexity in cone snails.</a>
+<em class="pub-journal">Molecular Biology and Evolution</em>
+</li>
+<li>
+<span class="pub-authors"><strong>Thomas L Koch</strong>, Ho Yan Yeung, Iris Bea L. Ramiro, Joshua P. Torres, Alina Anhnhi Vo, Seph Palomino, Ebbe Engholm, Samuel D. Robinson, Lachlan D. Rash, Zildjian G. Acyatan, Nicholas C. Schumann, Kasper B. Pedersen, Knud J. Jensen, Katrine T. Schjoldager, Amol Patwardhan, Neil D. Young, Michael J. Robertson, and Helena Safavi-Hemami.</span>
+<span class="pub-year">(2026)</span>
+<a href="https://www.cell.com/current-biology/abstract/S0960-9822(26)00885-7" class="pub-title">Mimics of the chordate gut-brain hormone neurotensin in parasitic intestinal hookworms.</a>
+<em class="pub-journal">Current Biology</em>
+</li>
+</ul>
+
+<a href="publications.html" class="text-link">Full publication list <span aria-hidden="true">→</span></a>
+
+## Recent
+
+<ul class="news-list">
+<li><span class="news-date">Dec 2026</span> Teaching workshop on genomic annotation at University of Oslo.</li>
+<li><span class="news-date">Oct 2026</span> Talk at Venoms2Drugs conference at K'gari, Australia .</li>
+<li><span class="news-date">Jun 2026</span> Podcast interview at 'Mit store spørgsmal'.</li>
+</ul>
 
 ::: {.closing-note}
-**Interested in the research?**
+**Open to collaboration.**
 
-I welcome conversations about collaborations, research opportunities, and the evolution of bioactive molecules.
+I'm interested in hearing from students, postdocs, and researchers working on venom biology, peptide evolution, and host-parasite interactions.
 
-<a href="contact.html" class="text-link">Get in touch ↗</a>
+<a href="contact.html" class="text-link">Get in touch <span aria-hidden="true">→</span></a>
 :::
+
+<footer class="site-footer">
+<div>Dr. Thomas Lund Koch · Center for Ecological and Evolutionary Synthesis, University of Oslo</div>
+<div class="footer-links">
+<a href="mailto:t.l.koch@ibv.uio.no">Email</a>
+<a href="https://scholar.google.com/https://scholar.google.com/citations?user=TzP53CcAAAAJ&hl=en">Google Scholar</a>
+<a href="https://orcid.org/0000-0002-8489-0375">ORCID</a>
+<a href="https://github.com/Thomaslundkoch">GitHub</a>
+</div>
+<div class="footer-updated">Last updated November 2026</div>
+</footer>

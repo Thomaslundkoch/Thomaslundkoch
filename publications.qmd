@@ -1,22 +1,80 @@
 ---
-title: "Publications"
-subtitle: "Peer-reviewed research, preprints, and other scholarly contributions."
+pagetitle: "Publications | Thomas Lund Koch"
+page-layout: full
 ---
 
-A selected list of publications will appear here. I recommend maintaining the publication records in a BibTeX file so that references can be updated consistently and reused in grant applications, CVs, and project pages.
+# Publications
 
-**To complete this page:** add your publication records to `references.bib`, then we can configure an automatically generated publication list grouped by year and publication type.
+\* denotes corresponding author. Full list also on [Google Scholar](https://scholar.google.com/) and [ORCID](https://orcid.org/).
 
-For now, you can add selected papers manually below:
+## 2026
 
-::: {.publication-placeholder}
-**Selected publications**
+Kulikova A, Bookout A, **Koch TL**\*, Safavi-Hemami H. (2026) Sparse autoencoder features from InterPLM predict neuropeptide precursors among secreted proteins. *bioRxiv*.
 
-Add publication title, author list, journal, year, and DOI or article link here.
-:::
+**Koch TL**\*, Ferrari G, Sumanam SB, Salcedo PF, Watkins M, Chase K, Tooming-Klunderud A, Lluisma AO, Yanagihara A, Young ND, Olivera BM, Undheim EA, Safavi-Hemami H. (2026) From neuropeptides to toxins: Illuminating the origins of venom complexity in cone snails. *Molecular Biology and Evolution*.
 
-External profiles:
+**Koch TL**, Yeung HY, Ramiro IBL, Torres JP, Vo AA, Palomino S, Engholm E, Robinson SD, Rash LD, Acyatan ZG, Schumann NC, Pedersen KB, Jensen KJ, Schjoldager KT, Patwardhan A, Young ND, Robertson MJ, Safavi-Hemami H. (2026) Mimics of the chordate gut–brain hormone neurotensin in parasitic intestinal hookworms. *Current Biology*.
 
-- [ORCID](https://orcid.org/)
-- [Google Scholar](https://scholar.google.com/)
-- [GitHub](https://github.com/)
+> Highlighted in: Schwartz EM. Ancylotensins: A new category of hookworm excretory/secretory proteins. *Trends in Parasitology* (2026).
+
+Hackney CM, **Koch TL**, Ryding NL, Rogalski A, Chase K, Giglio ML, Espino SS, Acyatan ZG, Watkins M, Olivera BM, Safavi-Hemami H, Teilum K, Ellgaard L. (2026) Conkazal-M1 from the MKAVA family of conotoxins: A dual-function protease inhibitor and neuroactive peptide. *Protein Science*.
+
+Shi N, Touchard A, Schendel V, **Koch TL**, Starobova H, Niu P, Tran H, Ragnarsson L, Safavi-Hemami H, Vetter I, Robinson SD. (2026) Repeated convergent evolution of bradykinin mimics as defensive toxins. *Science*.
+
+**Koch TL**\*, Yeung HY, Torres JP, Brandt Z, Palomino S, Ramiro IBL, Acyatan ZG, Schumann NC, Vo AA, Chase K, Engholm E, Jensen KJ, Hansen LH, Peterson RT, Robertson MJ, Patwardhan A, Schjoldager KT, Safavi-Hemami H. (2026) Prey-specific toxins provide broad venom activity in cephalopods. *bioRxiv*.
+
+**Koch TL**\*, Safavi-Hemami H. (2026) Toxins in disguise: Neuropeptide mimicry across animal venoms. *General and Comparative Endocrinology*.
+
+## 2025
+
+Espino SS, **Koch TL**, Gajewiak J, Giglio ML, Watkins M, Safavi-Hemami H, Olivera BM. (2025) Ancestral sequence reconstruction provides insights into the structural diversification and neofunctionalization of T-superfamily conotoxins in *Conus*. *Molecular Biology and Evolution*.
+
+Bjørn-Yoshimoto WE, Ramiro IBL, **Koch TL**, Engholm E, Yeung HY, Sørensen KK, Goddard CM, Jensen KL, Smith NA, Martin LF, Smith BJ, Madsen KL, Jensen KJ, Patwardhan A, Safavi-Hemami H. (2025) Cone snail venom-inspired somatostatin receptor 4 (SSTR4) agonists as new drug leads for peripheral pain. *Scientific Reports*.
+
+Khilji MS, Hackney CM, **Koch TL**, Hone AJ, Rogalski A, Watkins M, Tun J, McIntosh JM, Olivera BM, Safavi-Hemami H, Teilum K, Ellgaard L. (2025) Structural similarities reveal an expansive conotoxin family with a two-finger toxin fold. *Protein Science*.
+
+Judge H, Yeung HY, Schmidt E, Safavi-Hemami H, **Koch TL**\*. (2025) Phylogeography and venom gland transcriptomics of Palauan cone snails (Conidae): Insights from nuclear markers and RNA-seq. *bioRxiv*.
+
+**Koch TL**\*, Robinson SD, Safavi-Hemami H. (2025) Molecular mimicry: Ecology, evolution and application of doppelgänger peptides. *Trends in Biochemical Sciences*.
+
+## 2024
+
+Giglio ML, Flórez-Salcedo P, Azam L, Watkins M, **Koch TL**, Basgall-De la Rosa E, Douglass AD, McIntosh JM, Olivera BM, Gajewiak J. (2024) An N-terminally elongated peptide from *Conus rolani* defines a new class of ribbon alpha-conotoxins targeting muscle nAChRs. *The FASEB Journal*.
+
+Mayorova TD, **Koch TL**, Kachar B, Jung JH, Reese TS, Smith CL. (2024) Placozoan secretory cell types implicated in feeding, innate immunity and regulation of behavior. *PLOS One*.
+
+Espino S, Watkins M, Probst R, **Koch TL**, Chase K, Imperial J, Robinson SD, Salcedo PF, Taylor D, Gajewiak J, Yandell M, Safavi-Hemami H, Olivera BM. (2024) X-conotoxins are an evolutionary innovation of mollusk-hunting cone snails as a counteradaptation to prey defense. *Molecular Biology and Evolution*.
+
+**Koch TL**\*, Robinson SD, Flórez Salcedo P, Chase K, Biggs J, Fedosov AE, Yandell M, Olivera BM, Safavi-Hemami H. (2024) Prey shifts drive venom evolution in cone snails. *Molecular Biology and Evolution*.
+
+> Highlighted in: McGrath C. (2024) Prey-determined patterns in cone snail venom evolution. *Molecular Biology and Evolution*.
+
+Yeung HY, Ramiro IBL, Andersen DB, **Koch TL**, Hamilton A, Bjørn-Yoshimoto WE, Espino S, Vakhrushev SY, Pedersen KB, Haan N, Ederveen ALH, Olivera BM, Knudsen JG, Bräner-Osborne H, Schjoldager KT, Holst JJ, Safavi-Hemami H. (2024) Disruption of glucose homeostasis in prey: Combinatorial use of weaponized mimetics of somatostatin and insulin by a fish-hunting cone snail. *Nature Communications*.
+
+## 2023
+
+**Koch TL**\*, Torres JP, Baskin RP, Flórez Salcedo P, Chase K, Safavi-Hemami H. (2023) A toxin-based approach to neuropeptide and peptide hormone discovery. *Frontiers in Molecular Neuroscience*.
+
+Hackney CM, Salcedo PF, Mueller E, **Koch TL**, et al. (2023) A previously unrecognized superfamily of macro-conotoxins includes an inhibitor of the sensory neuron calcium channel Cav2.3. *PLOS Biology*.
+
+## 2022
+
+Hauser F, **Koch TL**, Grimmelikhuijzen C. (2022) The evolution of peptidergic signaling in Cnidaria and Placozoa, including a comparison with Bilateria. *Frontiers in Endocrinology*.
+
+**Koch TL**, Ramiro IBL, Flórez Salcedo P, Engholm E, Jensen KJ, Chase K, Olivera BM, Bjørn-Yoshimoto WE, Safavi-Hemami H. (2022) Reconstructing the origins of the somatostatin and allatostatin-C signaling systems using the accelerated evolution of biodiverse cone snail toxins. *Molecular Biology and Evolution*.
+
+## 2021
+
+**Koch TL**, Hauser F, Grimmelikhuijzen C. (2021) An evolutionary genomics view on neuropeptide genes in Hydrozoa and Endocnidozoa (Myxozoa). *BMC Genomics*.
+
+Nielsen SKD, **Koch TL**, Wiisbye SH, Grimmelikhuijzen C, Garm AL. (2021) Neuropeptide expression in the box jellyfish *Tripedalia cystophora*: New insights into the complexity of a "simple" nervous system. *Journal of Comparative Neurology*.
+
+## 2020
+
+**Koch TL**, Grimmelikhuijzen C. (2020) A comparative genomics study of neuropeptide genes in the cnidarian subclasses Hexacorallia and Ceriantharia. *BMC Genomics*.
+
+## 2019
+
+Nielsen SKD, **Koch TL**, Hauser F, Garm AL, Grimmelikhuijzen C. (2019) De novo transcriptome assembly of the cubomedusa *Tripedalia cystophora*, including the analysis of a set of genes involved in peptidergic neurotransmission. *BMC Genomics*. (SKDN and TLK contributed equally to this work.)
+
+**Koch TL**, Grimmelikhuijzen C. (2019) Global neuropeptide annotations from the genomes and transcriptomes of Cubozoa, Scyphozoa, Staurozoa (Cnidaria: Medusozoa), and Octocorallia (Cnidaria: Anthozoa). *Frontiers in Endocrinology*.

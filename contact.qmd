@@ -7,13 +7,12 @@ I am happy to hear from researchers, students, and potential collaborators inter
 
 <div class="contact-panel">
 <div class="contact-label">EMAIL</div>
-**Add your preferred institutional email address**
+t.l.koch@ibv.uio.no
 
 <div class="contact-label">AFFILIATION</div>
-University of Oslo · Department / research group details
+University of Oslo · Centre for Ecological and Evolutionary Synthesis
 
 <div class="contact-label">PROFILES</div>
-[ORCID](https://orcid.org/) · [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/)
+[ORCID](https://orcid.org/0000-0002-8489-0375) · [Google Scholar](https://scholar.google.com/https://scholar.google.com/citations?user=TzP53CcAAAAJ&hl=en) · [GitHub](https://github.com/Thomaslundkoch)
 </div>
 
-*Before publishing, replace the example profile links and contact details with your actual accounts.*

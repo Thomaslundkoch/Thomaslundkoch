@@ -37,6 +37,9 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    grid:
+      body-width: 1300px
+      margin-width: 0px
 
 execute:
   freeze: auto

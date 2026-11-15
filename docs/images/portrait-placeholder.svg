@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
-<rect width="100%" height="100%" fill="#e2dfd5"/>
-<path d="M0 720.0 C176.0 580.0, 280.0 880.0, 463.99999999999994 670.0 S688.0 530.0, 800 690.0 L800 1000 L0 1000Z" fill="#5b675b" opacity=".13"/>
-<circle cx="608.0" cy="250.0" r="112.00000000000001" fill="#5b675b" opacity=".10"/>
-<path d="M96.0 220.0 C200.0 80.0, 304.0 380.0, 416.0 200.0" fill="none" stroke="#5b675b" stroke-width="2" opacity=".25"/>
-<text x="64.0" y="800.0" font-family="Arial,sans-serif" font-size="28.000000000000004" letter-spacing="5" fill="#5b675b" font-weight="700">PORTRAIT</text>
-<text x="64.0" y="860.0" font-family="Arial,sans-serif" font-size="16.0" fill="#5b675b">Replace with a portrait or field photograph</text>
-<text x="64.0" y="930.0" font-family="Arial,sans-serif" font-size="11.200000000000001" letter-spacing="3" fill="#5b675b" opacity=".7">IMAGE PLACEHOLDER</text>
-</svg>
