@@ -8,29 +8,29 @@ These project pages provide an overview of the questions, systems, and approache
 <div class="project-list">
 
 <div class="project-row">
-![Cone snail](images/cone-snail-placeholder.svg){.project-thumb}
+![Conus geographus in the Philippinesl](images/geographus.jpg){.project-thumb}
 <div>
 <div class="card-kicker">VENOM EVOLUTION</div>
 <h3><a href="projects/venom-evolution.qmd">Repeated evolution of animal venom systems</a></h3>
-<p>Investigating the evolutionary origins of venom components and the repeated recruitment of protein scaffolds into animal venoms.</p>
+<p>Investigating the evolutionary origins of venom.</p>
 </div>
 </div>
 
 <div class="project-row">
-![Emerald ash borer](images/beetle-placeholder.svg){.project-thumb}
+![Ancylostome caninum](images/ancylostome.jpg){.project-thumb}
 <div>
 <div class="card-kicker">MOLECULAR MIMICRY</div>
 <h3><a href="projects/molecular-mimicry.qmd">Molecular mimicry in biological interactions</a></h3>
-<p>Exploring how parasites and pathogens evolve peptide mimics that manipulate host signaling pathways.</p>
+<p>Exploring how diverse organisms evolve peptide mimics that manipulate its target signaling pathways.</p>
 </div>
 </div>
 
 <div class="project-row">
-![Ant](images/ants-placeholder.svg){.project-thumb}
+![Trichoplax adhaerens](images/trichoplax.jpeg){.project-thumb}
 <div>
 <div class="card-kicker">PEPTIDE EVOLUTION</div>
 <h3><a href="projects/peptide-signaling.qmd">The evolution of peptide signaling systems</a></h3>
-<p>Reconstructing the evolutionary history of peptide-encoding genes and investigating the functional diversification of signaling molecules.</p>
+<p>Reconstructing the evolutionary history of peptide-encoding genes and their receptors, and investigating the functional diversification of signaling molecules.</p>
 </div>
 </div>
 
