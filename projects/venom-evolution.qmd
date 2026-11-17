@@ -1,22 +1,14 @@
 ---
-title: "Repeated evolution of animal venom systems"
+title: "Venom evolution and diversity"
 description: "The evolutionary origins and repeated recruitment of molecular components into venom."
 ---
 
-![Replace with a photograph of a cone snail, fang blenny, snake, or another venomous animal relevant to this project.](../images/cone-snail-placeholder.svg){.project-hero}
+![Looking for venomous animals in Palau 2023](../images/snorkling.jpg){.project-hero}
 
-## The question
-
-Venom systems have evolved repeatedly across the animal tree of life. Despite their independent origins, different venomous lineages sometimes use homologous proteins and peptides, raising questions about the evolutionary routes through which venom components are recruited.
-
-I investigate whether repeated transitions to venom use predictable molecular solutions, and how gene duplication, regulatory evolution, and protein diversification contribute to venom innovation.
+Venom systems have evolved repeatedly across the animal tree of life. 
 
 ## Research directions
 
-- Compare venom protein repertoires across independently evolved venomous lineages.
-- Identify shared and lineage-specific protein scaffolds.
-- Reconstruct the evolutionary history of candidate venom components.
-- Test the functional activity of selected peptides and proteins.
 
 ## Study systems
 
@@ -28,4 +20,3 @@ The project draws on venomous and non-venomous animal lineages, with a particula
 Comparative genomics · Phylogenetics · Transcriptomics · Protein and peptide characterization · Functional assays
 :::
 
-*This page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops.*

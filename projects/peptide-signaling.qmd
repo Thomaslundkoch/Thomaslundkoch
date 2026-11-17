@@ -1,13 +1,11 @@
 ---
 title: "The evolution of peptide signaling systems"
-description: "The origins, diversification, and functional evolution of peptide hormones and neuropeptides."
+description: "The origins and functional evolution of peptide hormones and neuropeptides."
 ---
 
-![Replace with a photograph of an animal lineage relevant to your peptide signaling research.](../images/ants-placeholder.svg){.project-hero}
+![Bessegen, Norway](../images/norway.jpg){.project-hero}
 
-## The question
-
-Peptide hormones and neuropeptides are widespread regulators of animal physiology and behavior. Their diversity reflects a long history of gene duplication, gene loss, sequence evolution, and changes in receptor specificity.
+Peptide hormones and neuropeptides are widespread regulators of animal physiology and behavior. 
 
 I use comparative approaches to reconstruct the origins and diversification of peptide-encoding genes across animal lineages, and to connect evolutionary hypotheses with functional characterization.
 
@@ -24,4 +22,3 @@ I use comparative approaches to reconstruct the origins and diversification of p
 Genome mining · Comparative genomics · Phylogenetics · Peptide synthesis · Receptor deorphanization
 :::
 
-*This page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops.*

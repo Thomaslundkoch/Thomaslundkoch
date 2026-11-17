@@ -1,31 +1,22 @@
 ---
 title: "Molecular mimicry in biological interactions"
-description: "How interacting organisms evolve molecules that imitate or manipulate host signaling."
+description: "How organismal conflics can drive the evolution of molecular mimicry."
 ---
 
-![Replace with a photograph of an insect, parasite, pathogen, or host organism central to this research.](../images/beetle-placeholder.svg){.project-hero}
+![Plants and parasites have intricate evolutionary relationships.](../images/leaf.jpg){.project-hero}
 
-## The question
-
-Organisms do not interact only through behavior and ecology. They also interact through molecules. Parasites and pathogens can produce molecules that resemble host signaling molecules, potentially allowing them to manipulate host physiology and development.
+Organisms do not interact only through behavior and ecology. They also interact through molecules. Venomous animals, parasites, and pathogens can produce molecules that resemble target signaling molecules, allowing them to manipulate the target's physiology and development.
 
 I am interested in the evolution of these molecular strategies, particularly the mimicry of peptide hormones and other signaling molecules.
 
 ## Research directions
 
-- Identify candidate peptide mimics in the genomes and transcriptomes of interacting organisms.
+- Identify candidate peptide mimics in interacting organisms.
 - Investigate their evolutionary origins and patterns of diversification.
 - Test whether candidate mimics activate host receptors or signaling pathways.
-- Understand how molecular mimicry contributes to the evolution of host–parasite interactions.
-
-## Study systems
-
-This research draws on diverse host–parasite and host–pathogen systems, including interactions involving insects and plants.
 
 ::: {.project-callout}
 **Methods**
 
 Comparative genomics · Secretome analysis · Peptide synthesis · Receptor pharmacology · Functional signaling assays
 :::
-
-*This page is an evolving overview. Specific datasets, collaborators, and publications can be added as the project develops.*
